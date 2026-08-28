@@ -116,7 +116,7 @@ The configuration screen confirms that the JTR executable was detected successfu
 
 ### 📸 Evidence
 
-![John the Ripper / Johnny Configuration](screenshots/01-johnny-john-the-ripper-configuration.png)
+![John the Ripper / Johnny Configuration](Ripper_config1.png)
 
 ---
 
