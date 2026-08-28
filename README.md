@@ -144,7 +144,7 @@ The tool identified the PDF as encrypted and displayed the extracted hash.
 
 ### 📸 Evidence
 
-![NetworkWalks Hash Calculator](screenshots/03-networkwalks-hash-calculator.png)
+![NetworkWalks Hash Calculator](hash_calculator3.png)
 
 ---
 
@@ -158,7 +158,8 @@ The tool tested candidate passwords from a dictionary and identified a successfu
 
 ### 📸 Evidence
 
-![NetworkWalks Password Cracker](screenshots/04-networkwalks-password-cracker.png)
+![NetworkWalks Password Cracker](password_crack4.png)(crack444.png) 
+
 
 ### ✅ Result
 
