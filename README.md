@@ -158,7 +158,7 @@ The tool tested candidate passwords from a dictionary and identified a successfu
 
 ### 📸 Evidence
 
-![NetworkWalks Password Cracker](password_crack4.png)(crack444.png) 
+![NetworkWalks Password Cracker](password_crack4.png) 
 
 
 ### ✅ Result
@@ -179,7 +179,7 @@ The lab PDF displayed a successful completion message and a captured flag.
 
 ### 📸 Evidence
 
-![PDF Flag Verification](screenshots/05-pdf-flag-verification.png)
+![PDF Flag Verification](veri_flag5.png)
 
 ---
 
