@@ -1,7 +1,7 @@
 # Networkwalks-B082-week3-passwordcracking-lab-project
 ## Password Cracking & PDF Password Security Lab
 
-> **Hands-on practical project covering John the Ripper (JTR/Johnny), PDF hash extraction, hash analysis, and dictionary-based password testing using NetworkWalks tools.**
+
 
 ---
 
