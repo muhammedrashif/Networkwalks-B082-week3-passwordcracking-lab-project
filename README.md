@@ -130,7 +130,7 @@ The resulting output was presented in a format compatible with password-auditing
 
 ### 📸 Evidence
 
-![PDF Hash Extraction](screenshots/02-pdf-hash-extraction.png)
+![PDF Hash Extraction](hash_ripper2.png)
 
 ---
 
